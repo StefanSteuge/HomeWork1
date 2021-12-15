@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         int a, b, e, x, X, y, w;
         a = 2;
-        b = 7;
+        b = 700;
         e = 15;
         x = 58;
         X = 567;
